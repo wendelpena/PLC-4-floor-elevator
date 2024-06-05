@@ -10,3 +10,5 @@ Features:
 -Emergency stop  
 -Fault detection  
 -Time logging
+
+https://github.com/wendelpena/PLC-4-floor-elevator/assets/124242132/e37fd7b8-41c7-46c4-b3ff-2be5299da660

@@ -11,4 +11,4 @@ Features:
 -Fault detection  
 -Time logging
 
-https://github.com/wendelpena/PLC-4-floor-elevator/assets/124242132/e37fd7b8-41c7-46c4-b3ff-2be5299da660
+https://github.com/wendelpena/PLC-4-floor-elevator/assets/124242132/abd1a344-17cd-47cf-9aa0-051c960338b9
